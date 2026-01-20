@@ -1,0 +1,11 @@
+POST http://localhost:4004/api/patients
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "name": "api_gateway_test",
+  "email": "api_gateway_test@example.com",
+  "address": "India",
+  "dateOfBirth": "2004-01-12",
+  "registeredDate": "2025-08-15"
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St, Springfield",
+    "dateOfBirth": "1985-06-15"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "address": "456 Elm St, Shelbyville",
+    "dateOfBirth": "1990-09-23"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174002",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "address": "789 Oak St, Capital City",
+    "dateOfBirth": "1978-03-12"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174003",
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "address": "321 Pine St, Springfield",
+    "dateOfBirth": "1982-11-30"
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174004",
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "address": "654 Maple St, Shelbyville",
+    "dateOfBirth": "1995-02-05"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174005",
+    "name": "Michael Green",
+    "email": "michael.green@example.com",
+    "address": "987 Cedar St, Springfield",
+    "dateOfBirth": "1988-07-25"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174006",
+    "name": "Sarah Taylor",
+    "email": "sarah.taylor@example.com",
+    "address": "123 Birch St, Shelbyville",
+    "dateOfBirth": "1992-04-18"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174007",
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "address": "456 Ash St, Capital City",
+    "dateOfBirth": "1975-01-11"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174008",
+    "name": "Laura White",
+    "email": "laura.white@example.com",
+    "address": "789 Palm St, Springfield",
+    "dateOfBirth": "1989-09-02"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174009",
+    "name": "James Harris",
+    "email": "james.harris@example.com",
+    "address": "321 Cherry St, Shelbyville",
+    "dateOfBirth": "1993-11-15"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174010",
+    "name": "Emma Moore",
+    "email": "emma.moore@example.com",
+    "address": "654 Spruce St, Capital City",
+    "dateOfBirth": "1980-08-09"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174011",
+    "name": "Ethan Martinez",
+    "email": "ethan.martinez@example.com",
+    "address": "987 Redwood St, Springfield",
+    "dateOfBirth": "1984-05-03"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174014",
+    "name": "Isabella Walker",
+    "email": "isabella.walker@example.com",
+    "address": "789 Willow St, Springfield",
+    "dateOfBirth": "1987-10-17"
+  },
+  {
+    "id": "dd1713a2-3e65-4df0-935a-3e88a19a8be4",
+    "name": "John Doe Kafka Test2",
+    "email": "kafka_test124@example.com",
+    "address": "123 main street22",
+    "dateOfBirth": "1995-09-09"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174012",
+    "name": "Anikh Dey",
+    "email": "Anikhdey@gmail.com",
+    "address": "Kolkata",
+    "dateOfBirth": "1947-08-15"
+  },
+  {
+    "id": "223e4567-e89b-12d3-a456-426614174013",
+    "name": "Daniel Lewis",
+    "email": "daniel.lewis@example.com",
+    "address": "456 Cypress St, Capital City",
+    "dateOfBirth": "1976-06-08"
+  },
+  {
+    "id": "b7a62bb1-01ae-4f1e-a952-7af2f6da772a",
+    "name": "Anikh Dey with billing_account",
+    "email": "grpc_client-server_test124@example.com",
+    "address": "Kolkata",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "9437718f-62af-4f94-b275-293f301723e4",
+    "name": "Anikh Dey with billing_account_test",
+    "email": "grpc_client-server_test1234@example.com",
+    "address": "Kolkata",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "8f798008-99d7-4acd-9b00-17d170a9f7d6",
+    "name": "AnikhDey with billing-account_test",
+    "email": "grpc_client-server_test12345@example.com",
+    "address": "Kolkata1",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "0786ffae-04f0-433f-84d5-612b4f3dfba1",
+    "name": "Anikh Dey with billing-account",
+    "email": "grpc_client-server_test@example.com",
+    "address": "Kolkata",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "25b3274d-5701-4c7f-8e13-8291634071af",
+    "name": "Kafka check ",
+    "email": "kafka_test@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "d7e757fe-6350-409c-a1ac-ded018389d4c",
+    "name": "Kafka check1 ",
+    "email": "kafka_test1@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "dbf73afe-b3a1-4374-af3d-bcb210526825",
+    "name": "Kafka check2",
+    "email": "kafka_test2@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "25c099c0-de54-4d29-81c2-9d84a70ffd6f",
+    "name": "Kafka check7",
+    "email": "kafka_test7@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "25580466-0073-44b9-9ac0-ae6471f609d4",
+    "name": "Kafka check18",
+    "email": "kafka_test18@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "85182aa2-84b9-453f-9b6d-6a939424f731",
+    "name": "Kafka check11",
+    "email": "kafka_test11@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "0c684a93-0e4f-481a-80ec-2820ccbf6d12",
+    "name": "Kafka check_updated",
+    "email": "kafka_test_updated@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "ec337434-b022-4faf-8a92-90d4e53d8584",
+    "name": "Anikh_kafka12",
+    "email": "kafka_test_12@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "7bc0f848-25e1-4287-b07c-73c334c7ab04",
+    "name": "Anikh_kafka_analytics-service test",
+    "email": "kafka_analytics-service_test_12@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "67ee8710-2702-4250-bece-ad7e6f7fb474",
+    "name": "Anikh_kafka_api-gateway test",
+    "email": "kafka_analytics-api-gateway_test_12@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "59076878-01bb-43f3-b2de-b9e68f942c12",
+    "name": "Anikh_kafka_api-gateway test",
+    "email": "kafka_analytics-api-gateway_12@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "3a45fe16-116a-4a45-a4a5-dbb1cc006e8b",
+    "name": "Anikh_kafka_api-gateway test_updated",
+    "email": "kafka_analytics-api-gateway_updated@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "4d5459fc-af34-46c9-92f3-f5c174548b9f",
+    "name": "Anikh_kafka_api-gateway test_updated1",
+    "email": "kafka_analytics-api-gateway_updated1@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "c76b9ee0-a0c9-460c-8cea-87fbb92f8a91",
+    "name": "Anikh_kafka_api-gateway test_updated9",
+    "email": "kafka_analytics-api-gateway_updated9@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "719bab36-cf4e-4c2b-9e48-9b272f657646",
+    "name": "Anikh_kafka_api-gateway_updated9",
+    "email": "kafka_analytics-api-gateway_updated90@example.com",
+    "address": "India",
+    "dateOfBirth": "2004-01-12"
+  },
+  {
+    "id": "503ef90a-2058-49f7-b48d-f9356f32b42c",
+    "name": "Viratkohli18",
+    "email": "ViratKohli1818@gmail.com",
+    "address": "RCB",
+    "dateOfBirth": "1988-11-05"
+  }
+]
