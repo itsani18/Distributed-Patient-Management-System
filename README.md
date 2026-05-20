@@ -39,6 +39,9 @@ System Flow
   b) Analytics Service consumes events asynchronously.
   c) Enables real-time analytics and event-driven workflows.
 
+<img width="1681" height="936" alt="64e35189-402d-49a7-a819-fe701987ba6b" src="https://github.com/user-attachments/assets/84a5cd9c-9e58-4954-aaa3-a3a820feae4c" />
+
+
 
 Key Features
 
